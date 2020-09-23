@@ -8,3 +8,4 @@ Let's make a merge conflict here.
 Let's make a new merge conflict on the line below this one: I can push it first, so you can see the merge conflict on your end in RStudio.
 
 Here: This is a new merge conflict source Other conflict here?
+Let's try other conflict here
